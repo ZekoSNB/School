@@ -5,7 +5,7 @@
 - **Procesor (*CPU* - Central Processing Unit)** - Modul počítača pre logickejšie úlohy, za cenu nižšieho výkonu ako GPU, ktorá zvláda menej logické úlohy (fixne stanovené), ale má omnoho rýchlejšiu výpočtovú rýchlosť
 - **RAM (Random Access Memory)** - pamäť, ktorá poskytuje vysokú rýclosť za cenu straty dát pri odpojení od elektrického zdroju
 - **ROM (Read Only Memory)** - trvalá pamäť, ktorá sa vytvorí počas výrobi čipu
-- **EPROM (Erasable Programmable Read-Only Memory) - Je možné programovať aj po výrobe a dáta ostanú aj po odpojení z elektrickej siete ako v ROM
+- **EPROM** (Erasable Programmable Read-Only Memory) - Je možné programovať aj po výrobe a dáta ostanú aj po odpojení z elektrickej siete ako v ROM
 - **BIOS (Basic Input Output System)** - základný program počítača slúžiaci na spustenie OS (Operačný systém)
 - **Zdrojový kód (Source Code)** - Program napísaný v jazyku, pred kompilovaním do Strojového kódu
 - **Strojový kód (Machine Code)** - Už skompilovaný Zdrojový Kód, Presné inštrukcie pre počítač
