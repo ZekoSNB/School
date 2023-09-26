@@ -36,3 +36,16 @@
 - $$F = 5kg \times 3m/s^2$$
 - $$F = 15\N$$
 - Na teleso posobi sila 15 N
+
+- Lietadlo s hmotnostou 20 000kg za 10s od startu drahu 75m
+- $$ s = {1\over 2}a t^2$$
+- **Aka velka je tazna sila jeho motorov?** (Trenie zanedbajte)
+- $ m = 20000kg $
+- $ t = 10s$
+- $s = 75m$
+- $ F = m\times a$
+- $ a = {2s \over t^2} $
+- $ F = 20000 \times 1.5 $
+- $ F = 30000N$
+
+# Treti pohybovy zakon
