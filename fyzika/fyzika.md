@@ -52,4 +52,4 @@
 - sily, ktorymi na seba vzajomne posobia dve telesa su rovnako velke navzajom opacneho smeru
 - Tieto sily vznikaju a zanikaju sucasne
 - Ak nazveme jednu silu akcia a druhu silu reakcia moze 3. pohybovy zakon zniet:
--- **Kazda akcia vyvola reakciu rovnakej velkosti opacnym smerom**
+- <p style="text-align: center;"><b>Kazda akcia vyvola reakciu rovnakej velkosti opacnym smerom</b><p>
