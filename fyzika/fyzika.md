@@ -34,7 +34,7 @@
 - $$ m = 5kg$$
 - $$ a = 3 m/s^2$$
 - $$F = 5kg \times 3m/s^2$$
-- $$F = 15\N$$
+- $$F = 15N$$
 - Na teleso posobi sila 15 N
 
 - Lietadlo s hmotnostou 20 000kg za 10s od startu drahu 75m
@@ -49,3 +49,7 @@
 - $ F = 30000N$
 
 # Treti pohybovy zakon
+- sily, ktorymi na seba vzajomne posobia dve telesa su rovnako velke navzajom opacneho smeru
+- Tieto sily vznikaju a zanikaju sucasne
+- Ak nazveme jednu silu akcia a druhu silu reakcia moze 3. pohybovy zakon zniet:
+-- **Kazda akcia vyvola reakciu rovnakej velkosti opacnym smerom**
