@@ -19,3 +19,11 @@
 
 5. Moje plany do buducna
 5.1 Automatizovanie RGB LED pasov cez Wifi spojenim 2 arduin
+5.2 Ako to funguje ? 
+5.3 Preco? 
+
+6. Mosfetove tranzistory
+6.1 ich vyuzite
+6.2 ako funguju ? 
+6.3 Ake su rozdielne od inych transistorov
+
