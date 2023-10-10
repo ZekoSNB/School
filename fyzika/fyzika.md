@@ -78,3 +78,28 @@
 
 - $ m1 \times v1 + m2 \times v2 =  (m1 + m2)v $
 - $ v = {10000 \times 0.9 + 20000 \over 10000+20000} = 0.3 {m \over s}$
+
+
+# Priklad
+- $$ p1 = p2 $$
+- $$ m1 \times v1 = m2 \times v2 $$
+- $$ 0.01kg \times 800 {m \over s} = 4 \times x$$
+- $$ x = 2 {m \over s} $$
+
+# Pirklad 2.
+
+- Na lietadle je delo, ktore striela naboje s hmotnostou 10kg rychlostou 600m/s. O kolko sa zmensi rychlost lietadla pri vystrele ak je naboj vystreleny v smere letu. Hmotnost lietadla je 10,000kg 
+
+- $$ 10 * 600 = 10000 \times x $$
+- $$ 6 = 10x $$
+- $$ x = 0.6 m/s $$
+
+# Domaca uloha 
+
+- **Vozik s hmotnostou 4kg sa pohybuje rychlostou 0.5m/s a narazi na vozik s hmotnostou 2kg, ktory sa pohybuje tym istym smerom rychlostou 0.2m/s. Po naraze sa voziky pohybuju spolocne. Aka je ich rychlost?**
+- $$ m1 = 4kg $$
+- $$ v1 = 0.5 {m \over s}$$
+- $$ m2 = 2kg $$
+- $$ v2 = 0.2 {m \over s}$$
+- $$ 4 * 0.5 + 2 * 0.2 = v $$
+- $$ 2 + 0.4 = 2.4 {m \over s} $$

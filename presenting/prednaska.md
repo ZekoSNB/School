@@ -1,4 +1,5 @@
 ## Prednasanie o vyvojovej doske arduino *Osnova*
+
 1. Kto som ?
 1.1  Ako som sa dostal k programovaniu
 1.2  Som samouk a ty mozes byt tiez!
@@ -14,6 +15,8 @@
 
 4. Projekty, ktore mam zhotovene
 4.1 Ako funguje
+4.1.1 Mosfetove tranzistory
+4.1.2 Rozdiel medzi normalnymi tranzistormi a mosfetove tranzistory
 4.2 Ako som ich vytvoril
 4.3 Veci, ktore som sa naucil
 
@@ -22,8 +25,4 @@
 5.2 Ako to funguje ? 
 5.3 Preco? 
 
-6. Mosfetove tranzistory
-6.1 ich vyuzite
-6.2 ako funguju ? 
-6.3 Ake su rozdielne od inych transistorov
 
