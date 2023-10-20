@@ -1,12 +1,16 @@
-## Prednasanie o vyvojovej doske arduino *Osnova*
+## Zvysenie informovanosti o informatike a vyvojovych dosiek *Osnova*
 
 1. Kto som ?
 1.1  Ako som sa dostal k programovaniu
-1.2  Som samouk a ty mozes byt tiez!
+1.2  Preco bola informatika moj vyber ?
+1.2.1  Som samouk a ty mozes byt tiez 
+1.3 V com sa moze informatika pysit ? 
+
 
 2. Co je arduino ?
 2.1 Co dokazeme spravit s arduinom
 2.2 Jednoduche arduino na meranie vzdialenosti 
+**2.2.1 Aktivita vo dvojici zapajanie arduina so skolitelom** 
 2.2.1 Zapnuty/Nezapnuty kod pomocou ultrazvuku - **ukazka** 
 2.3 Jeho dalsie potencialne vyuzitia - **Automatizacia, zhotovenie projektov podla vasich predstav**
 
