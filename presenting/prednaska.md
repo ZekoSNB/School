@@ -37,3 +37,5 @@
 
 **2.1** Nasa predstavivost je nas limit co dokazeme spravit s arduinom, ano na niektore ulohy uz je arduino moc jednoduche, ale co sa tyka jednoduchych projektov je to fakt len nasa predstavivost. Dokazeme sa s nim pripajat na bluetooth, WiFi. Posielat s nim prikazy cez Infracervene vysielace a prijimat ich pomocou IR prijimacov
 
+# PWM
+- PWM (*Pulse Width Modulation*) - je metoda kontrolovania prudu do elektronickeho zariadenia, upravujeme s tym svietivost LEDiek (*Light Emitting Diode*) a upravujeme jednotlivu frekvenciu. 50% PWM znamena ze pocas frekvencie 50% Casu pojde napatie a 50% bude napatie 0V (***Nakreslit na tabulu 50% upravy frekvencie***)

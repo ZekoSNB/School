@@ -24,3 +24,6 @@
 ##### Graficky mozme vektor $\vec c$ ziskat dvojakym sposobom:
 1. Do koncoveho bodu $\vec a$ premiestnime $\vec b$ 
 - Pociatocny bod $\vec a$ je pociatocnym bodom $\vec c$ a koncovy bod $\vec b$ je koncovym bodom $ \vec c$
+$ \vec c = \vec a + \vec b $
+
+2. Do pociatocneho bodu a prenesieme zaciatok b, (nezmenime smer ani velkost) a  vzniknuty utvar doplnime na rovnobeznik. **Uhlopriecka** rovnobeznika urcuje vektor $\vec c $. Vsetky vektory maju spolocny pociatok 
