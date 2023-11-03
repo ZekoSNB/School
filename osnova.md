@@ -1,0 +1,3 @@
+# zijeme v obalovej kulture bez obsahu?
+
+1. Dear guest and listeners, We live in an enviroment that judges without having any information. People are the ones we judge the most, we see them daily and just by their appearance we make a guess to categorize the person, but do we have any information ? Information can be taken as content and as we get more objective point of view, we'll see that our minds jduge everything by the looks, package. If we judge just by the package can we get a view of the inside? We don't  
