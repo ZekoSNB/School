@@ -13,7 +13,7 @@
 - $ F = 400 N$
 
 -->
-# matematika 
+<!-- # matematika  -->
 
  $$ {9^{-3} \times 45^2 \times 6^{-2}} \over {4^{-3} \times 5}$$
 $$ { 3^{-6} \times 3^4 \times 5^2 \times 2^{-2} \times 3^{-2} \over 2^{-6} \times 5^1 } $$
