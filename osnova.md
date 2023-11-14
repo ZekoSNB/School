@@ -2,3 +2,7 @@
 
 1. **Dear guest and listeners,**
 - We live in an enviroment that judges without having any information. People are the ones we judge the most, we see them daily and just by their appearance we make a guess to categorize the person, but do we have any information ? Information can be taken as content and as we get more objective point of view, we'll see that our minds jduge everything by the appearance of a person, packaging of a product etc. . If we judge just by the package can we get a view of the inside? We don't. And just by this assumptions we decide who to trust, work with, what to buy, or where to go, without knowing anything about it from the inside. Why is it like this? I stand by my opinion that first impression matters, let me explain, if you make a great impression on a person as a valuable, useful, caring person they will repeat it back, on the other hand a person will behave to you as a low value person, if you make your first impression look like that it comes from the looks, language, non-verbal communication is going to make a huge difference in a person's behavior towards you. Why do business man wear suits, it is not comfortable, your shoulder are tight, it costs a lot, but due to this discomfort not a lot of people wear this clothes. That will make you stand out as a person and that's why people make an assumption and will see you as more valuable person.
+
+# pripomineky 
+- Na zaver dodat akcny plan, ktory by sme mohli aplikovat v realite 
+- Dat vtipnu poznamku do prejavu \:D
