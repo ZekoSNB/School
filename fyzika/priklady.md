@@ -1,25 +1,17 @@
-<!-- # priklady
-- $ m = 1000kg$
-- $v = 90{km \over h} = 25 {m \over s}$
+# Priklady
+- $$ v = v_0 - a \times t $$
+- v = 25 m/s
+- t = 50s
+- $$ a = {v \over t}$$
 
- $$ \triangle \vec p = m \times \triangle \vec v$$
+##### Auto sa rozbehlo z pokoja a dosiahlo rychlost 90 km/h za 25s 
 
- $$ \triangle p = 1000kg \times 25 {m \over s}$$
- $$ \triangle p = 25000 kg \times m \times s^{-1}$$
+- $$ v = v_0 +  a  \times t$$
+- $$ 25 = 0 + a \times 25$$
 
-- $ m = 0.2kg $
-- $ v = 20 {m \over s}$
-- $ t = 25s$
-- $ F = 400 N$
-
--->
-<!-- # matematika  -->
-
- $$ {9^{-3} \times 45^2 \times 6^{-2}} \over {4^{-3} \times 5}$$
-$$ { 3^{-6} \times 3^4 \times 5^2 \times 2^{-2} \times 3^{-2} \over 2^{-6} \times 5^1 } $$
-
-$$ { 3^{-4} \times 5^2 \times 2^{-2}} \over 2^{-6} \times 5^1 $$
-$$ 3^{-4} \times 5^1 \times 2^4$$
-
-$$ 80 \over 3^4 $$
-$$ 80 \over 81 $$
+### adfa
+- $v=  10m/s$
+- $a = 3m/s^2$
+- Aku rychlost ma po 5s zrychleneho pohybu ? 
+$$ v = 10 + 3 * 5$$
+$$ v = 25 {m\over s}$$
