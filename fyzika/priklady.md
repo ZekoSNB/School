@@ -15,3 +15,13 @@
 - Aku rychlost ma po 5s zrychleneho pohybu ? 
 $$ v = 10 + 3 * 5$$
 $$ v = 25 {m\over s}$$
+
+
+###### Auto preslo v prvych 4s 20m v nasledujic 2s preslo 40m
+- A) V prvych 4 sekundaj pohyub 
+- B) V nasledujucis 2s pohybu
+- C) vo vsetkych 6s pohybu
+
+##### Rychlost brzdiaceho vlaku sa za cas 50 sekund zmensila z 36km/h na 18km/8
+- Urcite zrychlenie vlaku 
+- $$v = v_0 - a \times t $$
