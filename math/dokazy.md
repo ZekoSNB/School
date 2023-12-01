@@ -20,3 +20,16 @@ $$ A \implies B $$
 - **Obmena**: $ \forall n \in N: \space \space \space 2 \not| n \implies 2 \not | n ^ 2$
 $$ (a+b)^2 = a^2 + 2ab + b ^2$$
 - $ 2\not | n \implies n = 2k + 1 \implies n^2 = (2k +1)^2 \implies 4k^2 + 4k + 1  = 2(2k^2 + 2k) + 1 \implies 2 \not | n ^ 2$
+
+# DOKAZ SPOROM
+- Povodny vyrok (Veta) .... pravdivostna hodnota - **1**
+- Negovany vyrok .... pravdivostna hodnota - **0**
+----
+1) Negacia 
+2) Dôkaz, že negácia je *NEPRAVDIVÁ*
+3) PÔVODNY VÝROK JE *PRAVDIVÝ*
+
+# Priklady 
+- **V:** $ \space \forall x \in R: {x \over 10} + 6x - 1.4 < {3 \over 5 } + 6.1x$
+- 
+- **$\neg V:$** $ \forall x \in R:  {x \over 10} + 6x - 1.4 \geq {3 \over 5 } + 6.1x  $
