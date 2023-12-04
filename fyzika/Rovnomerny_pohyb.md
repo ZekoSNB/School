@@ -13,4 +13,5 @@
 
  ## Rovnomern zrychelny pohyb 
 
-- Drahy hmotneho bodu za rovnake casy intervaly pri rovnomerne zrychlenom pohybe nie su rovnake 
+- Drahy hmotneho bodu za rovnake casy intervaly pri rovnomerne zrychlenom pohybe nie su rovnake
+- ked ma hmotny bod v case $t$ = 0, pociatocnu v~0~ a pohybuje sa so zrychlenim $a$, potom jeho draha 
