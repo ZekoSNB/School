@@ -1,0 +1,11 @@
+#title {
+    color: red;
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+    background-image: url('pspadlogo.png');
+    background-repeat: repeat-x;
+    background-position-y: bottom;
+    background-attachment: fixed;
+}
