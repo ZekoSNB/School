@@ -1,15 +1,7 @@
-body { 
-    background-image: url('kus.webp');
-    
-    background-color: black;
-    background-attachment: fixed;
-}
-
 p {
-    color: white;
+    text-align: justify;
 }
-
 .test-div {
     margin: auto;
-    max-width: 60%;
+    max-width: 80%;
 }

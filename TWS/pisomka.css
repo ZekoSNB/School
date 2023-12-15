@@ -1,0 +1,12 @@
+body {
+    background-image: url('pspadlogo.png');
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-position: right;
+    background-color: lightblue;
+}
+h2 {
+    text-align: center;
+    color: orange;
+}
+
