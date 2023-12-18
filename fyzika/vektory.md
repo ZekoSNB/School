@@ -60,7 +60,31 @@ $$ \omega = 2\pi \times f$$
 - Vieme že vzťah medzi dĺžkou oblúka a polomerom $r$ môžeme vyjadriť ako $s = r \times \varphi$
 $$ v = {r \times \varphi \over t} = r \times {\varphi \over t} = r \times \omega => v = r \times \omega $$
 
-#### Hmotný bod koná rovnomerný pohyb po kružnici s polomerom 0,5m s frekvenciou 4Hz, vypočítajte periódu pohybu (T) uhlovú rýchlosť (Omega) a rýchlosť hmotného bodu
+#### Hmotný bod koná rovnomerný pohyb po kružnici s polomerom 0,5m s frekvenciou 4Hz, vypočítajte periódu pohybu (T) uhlovú rýchlosť ($ \omega$) a rýchlosť hmotného bodu
+- $r = 0.5m$
+- $f = 4Hz$
+- $ T = \space ?$
+- $ v = \space ?$
+- $ T = {1 \over f} = {1 \over 4} = 0.25$
+- $ \omega = {2 \pi \over 0.25} = 25 \space rad $
+- $v = r \times \omega = 12.5 {m \over s}$
+
+#### Vypocitajte uhlovu rychlost hriadela, ktory kona 120 otacok za minutu 
+- $ v = 120 \times \omega$
+- $ \omega = 2\pi f$
+- $ \omega = 4 \pi$
+- $ \omega = 12.566$
+
+#### hmotny bod kona rovnomerny zrychleny pohyb s polomerom 2m a rychlostou 10 m/s
+- $ r = 2m$
+- $ v = 10 {m \over s} $
+- $ v = \omega \times r$
+- $ 10 = \omega \times 2$
+- $\omega = 10 / 2 $
+- $\omega = 5$
+- $T = \omega \times 2 \pi$
+
+
 ```c
 #include<stdio.h>
 
