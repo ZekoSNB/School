@@ -117,14 +117,15 @@ m/s
 rad/s
 0.524rad/s.
 
+#### z bodu a do bodu c ($0 m) sucastne vyrazia 2 hmotne body  1. zrychlenie a = 1m/s^2    2. rovnovmernym pohybom po kruznici rychlostou 10m/s 
+- a) ktory z hmotnych bodov doraziu do bodu c skor
+- b) 
 
 
 
 
 
-
-
-```c
+```c 
 #include<stdio.h>
 
 int main(){
@@ -133,4 +134,9 @@ int main(){
     printf("My guessed number is: %i", a);
     return 0;
 }
+```
+```py
+def test():
+    print(f'Testing my penis :D \n asdf')
+    return 0
 ```
