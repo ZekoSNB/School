@@ -84,6 +84,45 @@ $$ v = {r \times \varphi \over t} = r \times {\varphi \over t} = r \times \omega
 - $\omega = 5$
 - $T = \omega \times 2 \pi$
 
+#### Hmotny bod opise 1/4 kruznice s polomerom 10cm za 1.5 sekundy, urcte periodu frekvenciu
+#### Hmontný bod opíše 1/4 kružnice s polomerom 10cm za 1.5 sekundy, určte periódu, frekvenciu, normálnu rýchlosť a uhlovú rýchlosť ak ide o rovnomerný pohyb po kružnici
+
+
+Pokud hmotný bod opíše čtvrtinu kružnice s poloměrem 10 cm za 1.5 sekundy, můžeme vypočítat různé parametry pohybu:
+
+Periódou rozumíme dobu, za kterou se pohyb opakuje. Pro úplný oběh kružnice (tj. opíše celou kruhovou dráhu) je perioda času pro jeden úplný oběh kruhu.
+
+Frekvence je počet opakování pohybu za jednotku času. Frekvence je inverzní hodnota periody.
+
+Normální rychlost se týká rychlosti ve směru kolmém na tečnu kruhové dráhy v daném bodě.
+
+Úhlová rychlost je rychlost, jakou hmotný bod mění svou úhlovou pozici na kruhové dráze.
+
+Nejprve spočítáme délku čtvrtiny kružnice s poloměrem 10 cm:
+
+
+- Perioda je 6s .
+- $ {1 \over 4} \times 1.5 = 6s$
+
+- Frekvence je přibližně 0.167Hz
+- $ f = {1 \over T} = {1 \over 6} = 0.167$
+Normální rychlost je přibližně 
+0.033
+ 
+m/s
+0.033m/s.
+Úhlová rychlost je přibližně 
+0.524
+ 
+rad/s
+0.524rad/s.
+
+
+
+
+
+
+
 
 ```c
 #include<stdio.h>
