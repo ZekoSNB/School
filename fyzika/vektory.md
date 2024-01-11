@@ -51,7 +51,10 @@ $ \vec c = \vec a + \vec b $
 $$ \omega = {\varphi \over t} [rad/s]$$
 - rovnomerný pohyb po kružnici je periodický pohyb
 - sprievodič hmotného bodu opíše plný uhol
-$$ \varphi = 2\pi$$
+$$ \varphi = 2\pi$$- $ 10 = \omega \times 2$
+- $\omega = 10 / 2 $
+- $\omega = 5$
+- $T = \omega \times 2 \pi$
 - $T$ Obežná doba alebo perióda pohybu
 $$ \omega = { 2 \pi \over T}$$
 $$ \omega = {2\pi \times 1 \over T}$$
@@ -79,11 +82,11 @@ $$ v = {r \times \varphi \over t} = r \times {\varphi \over t} = r \times \omega
 - $ r = 2m$
 - $ v = 10 {m \over s} $
 - $ v = \omega \times r$
-- $ 10 = \omega \times 2$
-- $\omega = 10 / 2 $
-- $\omega = 5$
-- $T = \omega \times 2 \pi$
-
+$$ \omega = 2 \pi f$$
+$$ d = 3.14 \times 4 = 12.56$$
+$$ T = 1.26$$
+$$ f = 0.8 $$
+$$ \omega = 5.024 [rad/s] $$
 #### Hmotny bod opise 1/4 kruznice s polomerom 10cm za 1.5 sekundy, urcte periodu frekvenciu
 #### Hmontný bod opíše 1/4 kružnice s polomerom 10cm za 1.5 sekundy, určte periódu, frekvenciu, normálnu rýchlosť a uhlovú rýchlosť ak ide o rovnomerný pohyb po kružnici
 
@@ -116,6 +119,10 @@ m/s
  
 rad/s
 0.524rad/s.
+## Poznamky
+- uhlova rychlost - $ \omega $
+- Frekvencia - $ f $
+
 
 #### z bodu a do bodu c ($0 m) sucastne vyrazia 2 hmotne body  1. zrychlenie a = 1m/s^2    2. rovnovmernym pohybom po kruznici rychlostou 10m/s 
 - a) ktory z hmotnych bodov doraziu do bodu c skor
