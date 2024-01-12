@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "a0af9495ad9a66d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b043bc4435e9a583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a65b8de50f6da08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Prvý pohybový Zákon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "194940f4f89af517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618edd8e0af152b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Prvý pohybový Zákon.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f3f3490f47e6504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Druhý pohybový zákon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19aed4d388dd5357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Tretí pohybový zákon.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea50184d06ba7ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1366dbd848026c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15a5cd0a27f7548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f31d64d31c47b18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae28192fa521e9a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "df8e96c3c5f3e1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b45b7f696fa91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47402ddab70eb2ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Tretí pohybový zákon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85fa2128f57ec2ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Tretí pohybový zákon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54a9bd57fdaf84d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "100abee1700cfd54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Tretí pohybový zákon.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19aed4d388dd5357",
+  "lastOpenFiles": [
+    "Physics/Druhý pohybový zákon.md",
+    "Physics/Tretí pohybový zákon.md",
+    "Physics/Prvý pohybový Zákon.md",
+    "Physics/Rovnomerny Pohyb.md",
+    "Physics/Priklady/RSP-RZP Priklady.md",
+    "Physics/Kinematika.md",
+    "Physics/Vektory.md",
+    "Physics/Priklady",
+    "Physics"
+  ]
+}
