@@ -6,4 +6,31 @@
 $$
  F_t = f \times F_N
 $$
-- 
+### Aký je šmykový sučiniteľ trenia saní o hmotnosti $400kg$ ak na udržanie saní treba prekonať silu trenia $F_t = 90N$ 
+$$
+90 = f \times 400kg =
+f = 0.225
+$$
+
+## Pohyb po naklonenej rovine
+$$
+F = F_1 - F_t
+$$
+$$
+F_1 = 
+$$
+$$
+\sin \alpha = {F_1 \over F_G} \implies F_1 = F_G \times \sin \alpha 
+$$
+$$
+\cos \alpha = {F_N \over F_G} \implies F_N = F_G \times \cos \alpha
+$$
+$$
+F = F_1 - F_t
+$$
+$$
+F = F_1 - f \times F_N
+$$
+$$
+F = F_G \times \sin \alpha - f 
+$$

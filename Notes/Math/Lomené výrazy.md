@@ -21,3 +21,15 @@ $$
 $$
 {b+b^2 \over a+ab} = {b (1+b) \over a(1 + b)} = {b\over a}
 $$
+### 5
+- Podmienka: 
+$$
+{x^2 + ab + b^2 \over a+b} - {a^2 - ab +b^2 \over a-b} + {2b^3 - b^2+a^2 \over a^2-b^2}
+$$
+$$
+{(a-b)(x^2 +ab +b^2) - (a+b)(a^2 - ab +b^2) + 2b^3 -b^2 +a^2 \over (a+b)(a-b)}
+$$
+
+$$
+
+$$
