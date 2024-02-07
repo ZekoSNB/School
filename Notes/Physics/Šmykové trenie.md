@@ -34,3 +34,10 @@ $$
 $$
 F = F_G \times \sin \alpha - f 
 $$
+# Zrýchlenie telesa na naklonej rovine
+- Nezávisi od hmotností telesa, ale závisí od uhla $\alpha$, ktorý zviera naklonená roviná s vodorovnou podložkou a od súčiniteľa šmykového trenia.
+- zrýchlenie je vždy menšie ako ťiažové zrýchlenie
+- **Môžu nastať tri prípady:**
+	1.  $F_1$ je väčšia ako sila $F_t$ zrýchlenie a ma rovnaký smer ako zrýchlenie sila $F_1$ teleso sa pohybuje nadol po naklonenej rovine
+	2.  - 
+	3. $F_1 - F_t$ pohybhlivé účinky týchto síl sa rušia zrychlením nulové
