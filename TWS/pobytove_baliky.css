@@ -1,0 +1,7 @@
+ul{
+    list-style-type: circle;
+}
+
+ul ul {
+    list-style-type: square;
+ } 
