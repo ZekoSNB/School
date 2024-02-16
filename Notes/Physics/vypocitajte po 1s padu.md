@@ -30,3 +30,5 @@ $$
 $$
 E_k = {1\over2} \times m \times v^2
 $$
+- v abc je celkova $E = 800J$ a nezmenila sa 
+- v PWP vytvorte prezentaciu elektricka energia v domacnosti, druhy energii v domacnost, navrh sposob setrenia v domacnosti 
