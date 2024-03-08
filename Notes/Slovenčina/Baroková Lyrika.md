@@ -1,8 +1,11 @@
 - Zaraďujeme do duchovnej poézie, pretože rozvíjala ducha a tématicky rozďelejume do 3 skupín:
-	1. Mravo učná
-	2. Ľúbostná
-	3. Duchovná (Náboženská)
+	1. [[#^c04840|Mravo učná]]
+	2. [[#^8a05fa|Ľubostná báseň]]
+	3. [[#^fd2ad2|Duchovná (Náboženská)]]
 ## Mravo Učná
+
+^c04840
+
 - Nazývame ju aj ditakticko-reflexívne 
 - Zachovala sa aj v evanjelických aj katolických spevníkoch
 - mala veľmi jednoduchú kompozíciu 12 veršov v 3 strofách, na konci básni sa nachádza ponaučenie - odporúčanie, ktoré je parafrázou umelého alebo ľudového príslovia, verše majú rovnaký počet slabík a združený rým, názov básne obhajoval tému básne
@@ -20,6 +23,9 @@
 - využíval aj nárečové slová, ktoré prebral od pastierov, kompozične vytvára 14 slabičné dvoj veršia, ktoré tvoria 12 veršovú strofu
 - skladba obsahuje aj prológ a epilóg (úvod a záver) 
 ## Duchovná lyrika 
+
+^fd2ad2
+
 - najrozšírenejším žánrom je duchovná pieseň, ktorá vychádza z Biblických žámlov, ktorú využívali pri náboženských obradoch hlavnými témami boli:
 	- posmrtný život
 	- žiaľ
@@ -29,12 +35,15 @@ Kedže v tomto odbdobí boli najvýraznejšími evanjelické a katolické nábo�
 katolický spevník
 - mnoho z piesní bolo zozbieraných a po formálnej stránke išlo o "rozhovor" medzi človekom a bohom 
 
+## Ľubostná baśeň
 
+^8a05fa
 
-
-
-
-
-
-
-
+- ***Baroková ľubostná*** poézie je potvrdením existencie barokových protikladov.
+- Baroková láska je takmer vždy nespravodlivá, falošná, zradná. Jej moc je osudová, proti jej ranám niet lekára, preto sa často spája s myšlienkami na smrť. Oproti zradnej láske hyperbolizuje milenec svoju vernosť. Svetská umelá, poľudová a ľudová poézia v slovakizovanej čestine i v slovenčine je zachytená v rukopisných spevníkoch a zborníkoch. *motív smrti*
+1. e
+2. A
+3. C
+4. ..
+5. .
+6. C
