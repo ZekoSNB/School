@@ -1,11 +1,19 @@
-#include "iostream"
+#include <iostream>
+#include <string>
 
-using namespace std;
+class Person {
+public:
+    std::string name;
+    int age;
 
-int main(){
-    char a;
-    cout << "testujem to tu druhy krat\n";
-    cin >> a;
-    cout << int(a) << endl;
+    Person(const std::string& n, int a) : name(n), age(a) {}
+};
+
+int main() {
+    Person person("John Doe", 25);
+    
+    std::cout << "Name: " << person.name << std::endl;
+    std::cout << "Age: " << person.age << std::endl;
+
     return 0;
 }
