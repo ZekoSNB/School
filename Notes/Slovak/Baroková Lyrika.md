@@ -12,14 +12,14 @@
 - Obdobie Baroku 
 - Najvýraznejším autorom barokovej lyriky *Hugolín Gavlovič* 
 - je pôvodom Poľskej národnosti
-- vyštudoval teológiu v Žiline a neskôr pôsobil ako kňaz v Beckove a vo Františkánskom kláštore v obci Pruské ochorel na tuberkulózu preto musel opustiť kláštor a odišiel k pastierom do hôr kde získal inšpiráciu pre svoje dielo "Valaská škola mravúv stodola" ako hovorí sám názov diela v spoločnosti pastierov nachádzal životnú múdrosť a ich učenie spracoval do básnickej podobya, aj napriek jednoduchosti pastierov poukázal na ich vysoké morálne hodnoty valaská škola mravu v stodola bola písana *slovakizovanou čestinou* a celá skladba obsahuje 17 000 veršov tématicky sa zameriaval: 
+- vyštudoval teológiu v Žiline a neskôr pôsobil ako kňaz v Beckove a vo Františkánskom kláštore v obci Pruské ochorel na tuberkulózu preto musel opustiť kláštor a odišiel k pastierom do hôr kde získal inšpiráciu pre svoje dielo "Valaská škola mravúv stodola" ako hovorí sám názov diela v spoločnosti pastierov nachádzal životnú múdrosť a ich učenie spracoval do básnickej podoby, aj napriek jednoduchosti pastierov poukázal na ich vysoké morálne hodnoty valaská škola mravu v stodola bola písana *slovakizovanou čestinou* a celá skladba obsahuje 17 000 veršov tématicky sa zameriaval: 
 	- Na vzťah človeka a Boha
 	- Na vzťah poddaných a pánom 
 	- od slova pracovitosti 
 	- vlastenectvo 
 	- vzdelanie 
 	- kritika alkoholizmu 
-- Auto využíval veľmi naturalistický opis moho umeleckých jazykových prostriedkov a hovoroví jazyk (Používa aj vulgarizmy)
+- Autor využíval veľmi naturalistický opis moho umeleckých jazykových prostriedkov a hovoroví jazyk (Používa aj vulgarizmy)
 - využíval aj nárečové slová, ktoré prebral od pastierov, kompozične vytvára 14 slabičné dvoj veršia, ktoré tvoria 12 veršovú strofu
 - skladba obsahuje aj prológ a epilóg (úvod a záver) 
 ## Duchovná lyrika 
@@ -40,17 +40,5 @@ katolický spevník
 ^8a05fa
 
 - ***Baroková ľubostná*** poézie je potvrdením existencie barokových protikladov.
-- Baroková láska je takmer vždy nespravodlivá, falošná, zradná. Jej moc je osudová, proti jej ranám niet lekára, preto sa často spája s myšlienkami na smrť. Oproti zradnej láske hyperbolizuje milenec svoju vernosť. Svetská umelá, poľudová a ľudová poézia v slovakizovanej čestine i v slovenčine je zachytená v rukopisných spevníkoch a zborníkoch. *motív smrti*
-1. e
-2. A
-3. C
-4. ..
-5. .
-6. C
+- Baroková láfska je takmer vždy nespravodlivá, falošná, zradná. Jej moc je osudová, proti jej ranám niet lekára, preto sa často spája s myšlienkami na smrť. Oproti zradnej láske hyperbolizuje milenec svoju vernosť. Svetská umelá, poľudová a ľudová poézia v slovakizovanej čestine i v slovenčine je zachytená v rukopisných spevníkoch a zborníkoch. *motív smrti*
 
-#  Útvar AŠ
-1. Spája Administratívny štýl a informačný slohový postup, ma presnú formálnu stránku -> má veľmi stručnú formuláciu aby bol prehľad informácií jednoduchý
-2. ***Splnomocnenie*** -> právny dokument a má právnicky charakter a je určený na komunikáciu s úradmi alebo inými inštitúciame musí byť overený notárom alebo matrikou -> obsahuj všetky osobné údaje: meno, bydlisko, rodné číslo a číslo *OP* 
-	1. pre konkrétne účely 
-	2. generálna moc -> neobmedzéne splnomocnenie
-3. ***Potvrdenie*** -> právna listina, ktorá je vydaná konkrétnej osobe za istým účelom, jej úlohou je potvrdenie informácií pre konkrétnu osobu, toto potvrdenie vždy vydáva oprávnená osoba alebo organizácia, špecifickým typom potvrdenia je kúpna alebo pracovná zmlúva, čiže potvrdenie o nadobudnutí majetku alebo získanie zamestania. Pracovná aj kupná zmlúva su právne dokumenty

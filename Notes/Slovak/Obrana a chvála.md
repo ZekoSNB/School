@@ -1,7 +1,7 @@
 - **Obrana** *(obranný spis)* patrí do vecnej alebo odbornej prózy
 - podobný filozofickému spisu
 - má polemický charakter, pretože je reakciou na protikladný názor
-- Môže mať dialogickú formu , aleaj formu asymetrického dialógu (je to monologický text, ale autorov text je prelikou niečoho, čo bolo vyslovené pred istým  časom a na inom mieste)
+- Môže mať dialogickú formu , ale aj formu asymetrického dialógu (je to monologický text, ale autorov text je prelikou niečoho, čo bolo vyslovené pred istým  časom a na inom mieste)
 - Autor v nej obraňuje a chváli svoj národ, svoju reč a pod.
 - Okrem prózy môže obsahovať aj verše
 ## Ján Baltazár Magin

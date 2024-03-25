@@ -19,3 +19,10 @@
 - Vie nieco z odboru velmi dokladne - expertiza
 
 - a okrem toho ma aj umelecke schopnosti v expertize
+
+
+
+
+| a           | p(a) |
+| ----------- | ---- |
+| $\emptyset$ |      |
