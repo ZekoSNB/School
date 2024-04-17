@@ -1,14 +1,24 @@
-from tkinter import *
+import select
+import socket
 
-canvas = Canvas(width=400, height=400, bg='white')
-canvas.pack()
+# Create a socket object
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-canvas.create_oval(100, 100, 200, 175, fill='light blue')
-canvas.create_oval(120, 120, 200, 155, fill='white')
+# Connect to a server
+s.connect(('www.python.org', 80))
 
-canvas.create_rectangle(150, 50, 250, 240, fill='light blue')
-canvas.create_oval(150, 25, 250, 75, fill='light blue')
-canvas.create_oval(150, 225, 250, 250, fill='light blue')
+# Send some data
+s.sendall(b'GET / HTTP/1.1\r\nHost: www.python.org\r\n\r\n')
 
+while True:
+    # Use select to wait for read readiness
+    ready_to_read, ready_to_write, in_error = select.select([s], [], [], 5.0)
 
-mainloop()
+    if ready_to_read:
+        # If the socket is ready to read, read it and print the data
+        data = s.recv(4096)
+        print('Received:', data)
+    else:
+        # If the socket wasn't ready to read within 5 seconds, give up
+        print('Timed out')
+        break
