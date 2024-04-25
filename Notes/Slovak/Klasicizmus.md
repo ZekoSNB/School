@@ -21,3 +21,19 @@ Bol bratom štúrovského básnika *Sama Chalúpku* a bol mimoriadne vzdelaný, 
 	1. upadajúce zemianstvo
 	2. inteligencia
 	3. Vrstva remeslníkov (túto vrstvu autor zobrazuje najkritickejšie)
+
+# Epika Klasicizmu
+Epike doznieva Baroková próza, najmä v odbornej a populárnej próze. Najviac zastúpené boli epické skladby ->***Eposy***, ktoré mali formu poézie, ale boli obsahovou prózou. Medzi najvýznamnejších autorov Epiky Slovenského klasicizmu, patril Ján Holý a Ján Kollár. 
+
+Ján Holý patril ku generácií Bernolákovcov a je to autor, ktorý odsúhlasil v roku 1843 Štúrovskú kodifikáciu Štúrovskej Slovenčiny, Ján Holý patril ku katolíckym autorom a vyštudoval teológiu v Trnave a 29 rokov pôsobil na fare v Maduniciach, po požiari na fare utrpel ťažké popáleniny a takmer oslepol a život u priateľa na dobrej vode (*práve sem prišiel Ľudovít Štúr*). Prekladal antickú poéziu do Bernolákovčiny a je autor troch významných Eposov s historickou tématikou.
+1. Svatopluk
+2. Cirillo-metodiada
+3. Sláv
+Vo všetkých troch skladbách sa venuje historickému obdobiu veľkej Moravy a spracováva túto historickú tématiku. Pri tvorbe sa pridržiaval antických postupov (*Homér* -> Ilias a Odyssea). Dodržiava aj znaky Eposu (rozsiahle opisy) a prítomnosť bohov v diele. Epická dejová línia mala rozsiahle odbočenia -> vedľajšie dejové línie a Epos písal formou *In medias res* -> priamo do deja. využíva časomerný prozodický systém, ktorý bol charakteristický práve pre tvorbu klasicizmu. V úvode podobne ako v antike "Vzýva muzy" aby ho inšpirovali, a neskor rozdlenie do 12 spevov. Pred každým spevom je stručný obsah, ktory naznačuje dej.
+
+![[20240422_122022.jpg]]
+
+Základnou jednotkou časomiery je *móra* -> Zvuková jednotka, ktorá zodpovedá jednej krátkej slabiky. Časomiera nevyužíva rým. Ak sa v jednom verši nachádza 6 stôp, tento verš sa nazýva hexametrický ak sa v jednom verši nachádza päť stôp je to penta metrický verš. Ak sa v jednej strofe striedajú hexametre s pentametrami takúto strofu nazývamé ***elegické distichon***. 
+
+# Svatopluk dej
+Epos začína vstupom do deja, kde je obraz svatopluka, ktorý je uväznaný v žalári a prosí boha o slobodu a prosí boha o slobodu. Boh posiela k Nemeckému svojho posla a Nemecký král Karolman Svatopluka oslobodí. Svatopluk sa ožení s Karolmanovou dcérou a dá Svatoplukovy rastislavovu krajinu.
