@@ -1,0 +1,2 @@
+# Dejová línia 2. časti románu René Mládenca príhody a skúsenosti 
+je zložená z krátkých epizód, v ktorých rené so svojim sprievodcom cestuje po územi Slovneska a zoznamuje sa s kultúrou a so spoločenskými pomermi a vyjadruje kritiku, celá kritika sprostredkovaná cez postavu Reného vychádza z Reforiem *Jozefa II.*, ktorý vydal tzv. ***Tolerančný patent***, to znamená slobodu viero vyznania, a zrušil žobracké rády a odsudzoval princíp odpustkov. 2. časť románu bola cirkvov zakázaná a bola vytlačená až o niekoľlko rokov neskôr.

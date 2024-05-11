@@ -37,3 +37,9 @@ Základnou jednotkou časomiery je *móra* -> Zvuková jednotka, ktorá zodpoved
 
 # Svatopluk dej
 Epos začína vstupom do deja, kde je obraz svatopluka, ktorý je uväznaný v žalári a prosí boha o slobodu a prosí boha o slobodu. Boh posiela k Nemeckému svojho posla a Nemecký král Karolman Svatopluka oslobodí. Svatopluk sa ožení s Karolmanovou dcérou a dá Svatoplukovy rastislavovu krajinu.
+
+A ako prvy sa snazil kodifikovat spisovnu slovencinu tzv. bajtorzecinu ale tento jazyk sa neujal 
+slovenske ucene tovarisstvo
+- tento spolok mal za ulohu podporu slovakov, ich kulury
+- ale znamy je ako autor slovenkseho prveho romanu ma ditakticke zameranie
+- druhy diel je suboorm kratkych epizod zo slovenskeho zivot Hadixa
