@@ -1,0 +1,1 @@
+Vodorovnou trubicou s obsahom prierezu $20 cm^2$ prudi voda rychlostou $8 m.s^{-1}$. Tlak vody je 108.105Pa. Aku rychlost a tlak ma voda v rozsirenom mieste trubice s obsahom prierezu $40cm^2$? Vodu povazujte za dokonalu kvapalinu.
